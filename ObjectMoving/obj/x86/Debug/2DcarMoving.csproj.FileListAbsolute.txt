@@ -1,0 +1,20 @@
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.exe
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.pdb
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.exe
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.pdb
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\DcarMoving.FormView.resources
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.Welcome.resources

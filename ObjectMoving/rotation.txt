@@ -1,0 +1,26 @@
+using RasterEdge.Imaging.Basic;
+using RasterEdge.Imaging.Basic.Core;
+using RasterEdge.Imaging.Processing;
+using RasterEdge.Imaging.Basic.Codec;
+
+namespace RE__Test
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string fileName = "c:/Sample.png";
+
+            REImage reImage = REFile.OpenImageFile(fileName);
+
+            ImageProcessing.ApplyRotate(reImage, 60);
+
+            REFile.SaveImageFile(reImage, "c:/reimage.png", new PNGEncoder());
+        }
+    }
+}

@@ -1,0 +1,40 @@
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.dll
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.pdb
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.dll
+E:\Data Structure\User of csharp\draw carta move kore\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.pdb
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.dll
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.pdb
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.dll
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.pdb
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\ENTITY.dll
+E:\Data Structure\User of csharp\draw carta move kore - Copy\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\ENTITY.pdb
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.dll
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.pdb
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\ENTITY.dll
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\ENTITY.pdb
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.dll
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.pdb
+E:\Data Structure\User of csharp\Moving car\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.dll
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\DALL.pdb
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\ENTITY.dll
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\bin\Debug\ENTITY.pdb
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.dll
+F:\rafflesia\Moving car\ObjectMoving(1)\ObjectMoving\DALL\obj\Debug\DALL.pdb
+D:\Pojects\ObjectMoving\DALL\bin\Debug\DALL.dll
+D:\Pojects\ObjectMoving\DALL\bin\Debug\DALL.pdb
+D:\Pojects\ObjectMoving\DALL\bin\Debug\ENTITY.dll
+D:\Pojects\ObjectMoving\DALL\bin\Debug\ENTITY.pdb
+D:\Pojects\ObjectMoving\DALL\obj\Debug\ResolveAssemblyReference.cache
+D:\Pojects\ObjectMoving\DALL\obj\Debug\DALL.dll
+D:\Pojects\ObjectMoving\DALL\obj\Debug\DALL.pdb
+D:\Pojects\objectMove\DALL\bin\Debug\DALL.dll
+D:\Pojects\objectMove\DALL\bin\Debug\DALL.pdb
+D:\Pojects\objectMove\DALL\bin\Debug\ENTITY.dll
+D:\Pojects\objectMove\DALL\bin\Debug\ENTITY.pdb
+D:\Pojects\objectMove\DALL\obj\Debug\ResolveAssemblyReference.cache
+D:\Pojects\objectMove\DALL\obj\Debug\DALL.dll
+D:\Pojects\objectMove\DALL\obj\Debug\DALL.pdb
